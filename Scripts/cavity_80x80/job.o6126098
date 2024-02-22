@@ -1,0 +1,7 @@
+/work2/09042/mihiro10/frontera/COE-347-SP24/mainclassrepo/OpenFOAM/v7/cavity/cavity_80x80
+Wed Feb 21 16:12:26 CST 2024
+Running blockMesh on /work2/09042/mihiro10/frontera/COE-347-SP24/mainclassrepo/OpenFOAM/v7/cavity/cavity_80x80
+Running checkMesh on /work2/09042/mihiro10/frontera/COE-347-SP24/mainclassrepo/OpenFOAM/v7/cavity/cavity_80x80
+Running icoFoam on /work2/09042/mihiro10/frontera/COE-347-SP24/mainclassrepo/OpenFOAM/v7/cavity/cavity_80x80
+Running postProcess on /work2/09042/mihiro10/frontera/COE-347-SP24/mainclassrepo/OpenFOAM/v7/cavity/cavity_80x80
+Wed Feb 21 16:12:42 CST 2024
